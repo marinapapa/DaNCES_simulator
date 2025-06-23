@@ -49,4 +49,7 @@ po/*~
 rsconnect/
 
 # Simulation related folder
-simulator/*
+simulator/sim_demo/bin/*
+
+# Simulation output data
+sim_data/*
