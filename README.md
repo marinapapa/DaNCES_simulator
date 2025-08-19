@@ -28,8 +28,7 @@ In Windows, using a precompiled model, you may also need to:
 
 Further information on the functionality of the framework see our accompanying publication: 
 
-_Papadopoulou M, Hildenbrandt H, Hemelrijk CK. (2025) A data-inspired framework to simulate collective behaviour of predator-prey systems._
-
+_Papadopoulou M, Hildenbrandt H, Hemelrijk CK. (2025) A data-inspired framework to simulate collective behaviour of predator-prey systems. Adaptive Behavior, [doi: 10.1177/10597123251364750](https://doi.org/10.1177/10597123251364750)._
 
 ### Acknowledgements
 The development of this software was mainly supported by an NWO grant awarded to Prof. Dr. Charlotte K. Hemelrijk at the University of Groningen.
